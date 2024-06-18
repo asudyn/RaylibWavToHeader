@@ -7,7 +7,7 @@ When placed in the same directory as .wav files it uses Raylib to convert data f
 While working on a very small and minimalistic game I wanted to pack all my sound effects into my executable. 
 
 # Usage
-- [Download](https://github.com/asudyn/RaylibWavToHeader/blob/main/Builds/Release/WavToHeaderConverter.exe) the converter or build it yourself.
+- [Download](https://github.com/asudyn/RaylibWavToHeader/blob/master/Builds/Release/WavToHeaderConverter.exe) the converter or build it yourself.
 - Place the converter in the same directory with your .wav files.
 - Run it.
 - Use SoundFX.h in your project.
