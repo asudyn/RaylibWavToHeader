@@ -1,0 +1,6 @@
+.vs
+Builds/Intermediate
+Builds/**/*.pdb
+
+*vcxproj.user
+*vcxproj.filters
